@@ -4,6 +4,7 @@ metadata:
   name: bk-test-1
   annotations:
     github.com/project-slug: BeadW/bk-test-1
+    buildkite.com/project-slug: <buildkiteorganization/buildkitepipeline>
 spec:
   type: other
   lifecycle: unknown
