@@ -4,6 +4,7 @@ metadata:
   name: bk-test-1
   annotations:
     github.com/project-slug: BeadW/bk-test-1
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: experimental
