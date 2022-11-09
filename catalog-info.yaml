@@ -4,7 +4,7 @@ metadata:
   name: bk-test-1
   annotations:
     github.com/project-slug: BeadW/bk-test-1
-    backstage.io/techdocs-ref: dir:.
+    buildkite.com/project-slug: nib-health-funds-ltd/dbt-datawarehouse
 spec:
   type: website
   lifecycle: experimental
