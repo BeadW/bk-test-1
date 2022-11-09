@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: BeadW/bk-test-1
 spec:
-  type: other
-  lifecycle: unknown
+  type: website
+  lifecycle: experimental
   owner: guests
+  system: examples
